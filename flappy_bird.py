@@ -1,4 +1,7 @@
-
+"""
+The pygame was created with the help of youtube tutorials
+NEAT was learned through tutorials, tested, and then applied
+"""
 import pygame
 import random
 import os
